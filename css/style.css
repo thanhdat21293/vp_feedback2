@@ -1,0 +1,163 @@
+div#ykien {
+        width: 100%;
+    max-width: 600px; 
+    margin: 0 auto;
+    top: 0;
+    text-align: left;
+    display: inline-block;
+    line-height: normal;
+	position:relative;
+    vertical-align: middle;
+}
+
+div#ykien .card {
+    border-radius: 0;
+    padding: 10px;
+}
+a.btn.btn-outline-success:focus {
+    box-shadow: none;
+}
+.wsbutton {
+    margin-top: 10px;
+    border-top: 1px solid rgba(0,0,0,.125);
+    padding-top: 10px;
+	    text-align: center;
+}
+
+.btn.prev {
+	float:left;
+}
+.btn.next {
+    float:right;
+}
+h3.title {
+    text-align: center;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+html body {
+    text-align: center;
+    line-height: 100vh;
+}
+.logo img {
+    max-width: 300px;
+    width: 100%;
+    max-height: 100px;
+    width: auto;
+    position: fixed;
+    top: 30px;
+    right: 30px;
+}
+
+.logo {
+    
+}
+
+div.formbuoc.ok {
+	display: block;
+}
+div.formbuoc2.ok {
+	display: flex;
+}
+div.hienthino.ok,
+div.hienthino5.ok,
+div.buoc.ok,
+br.formbuoc.ok
+ {
+	display:block;
+}
+div.hienthino5,
+div.hienthino,
+br.formbuoc,
+div.formbuoc,
+div.buoc {
+	display:none;
+}
+.cauhoi.formbuoc8.formbuoc.ok {
+	display:block;
+}
+.hientai {
+    display: inline-block;
+    line-height: 38px;
+    font-size: 20px;
+}
+
+.cauhoi {
+	font-weight: 500;
+}
+label.wstextarea100,
+.hienthino5 label.form-check-label,
+.hienthino label.form-check-label {
+    padding: 0;
+    margin-top: 10px;
+    width: 100%;
+}
+div.formbuoc6.ok {
+    display: block;
+}
+.wscamon{
+	display:none;
+}
+
+.wating {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    z-index: 99;
+    background: rgba(255, 255, 255, 0.6);
+	display:none;
+}
+
+.wating img {
+    position: absolute;
+    top: 50%;
+}
+.imgcanhbao img {
+	width:200px;
+}
+.imgbuon img{
+	width:140px;
+	margin-right:10px;
+}
+
+.formbuoc1 span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.buoc1.text-center a {
+    float: none
+}
+
+.btn.floatnone {
+    float: none;
+}
+
+div.container {
+    max-width: 1200px;
+}
+@media (max-width: 480px) {
+	table.thongbao {
+		display: block;
+	}
+
+	table.thongbao tbody {
+		display: block;
+	}
+
+	table.thongbao tbody tr {
+		display: block;
+	}
+
+	table.thongbao tr td {
+		display: block;
+	}
+}
+
+
+
+
